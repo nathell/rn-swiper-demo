@@ -1,0 +1,12 @@
+{
+  "name": "rn-swiper-demo",
+  "displayName": "rn-swiper-demo",
+  "expo": {
+    "name": "rn-swiper-demo",
+    "slug": "rn-swiper-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
